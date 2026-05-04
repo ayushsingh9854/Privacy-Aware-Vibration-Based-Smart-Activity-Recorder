@@ -44,10 +44,5 @@ Detects a wide range of device state & activities including:
 - Cooler vibrations
 - Mixer vibrations
 - State of machines
-  
-- Jumping
 - And more...
 
----
-
-## 🏗️ Architecture
