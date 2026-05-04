@@ -17,7 +17,7 @@
 
 ## 🎯 Overview
 
-**Privacy-Aware Vibration-Based Smart Activity Recorder** is an innovative system that leverages smartphone vibration sensors (accelerometers, gyroscopes) to detect and classify user activities while maintaining **strict privacy standards**. 
+**Privacy-Aware Vibration-Based Smart Activity Recorder** is an innovative system that uses ADXL-345 vibration sensors (accelerometers, gyroscopes) to detect and classify user activities while maintaining **strict privacy standards**. 
 
 Unlike camera or microphone-based systems, this solution processes only motion data locally on the device, ensuring:
 - ✅ **Complete user privacy** - No sensitive data leaves the device
@@ -39,12 +39,12 @@ Unlike camera or microphone-based systems, this solution processes only motion d
 - 📱 **Cross-Platform Support** - Works on Android and iOS
 
 ### Activity Recognition
-Detects a wide range of activities including:
-- Walking & Running
-- Cycling
-- Standing & Sitting
-- Climbing Stairs
-- Driving
+Detects a wide range of device state & activities including:
+- Human activity
+- Cooler vibrations
+- Mixer vibrations
+- State of machines
+  
 - Jumping
 - And more...
 
